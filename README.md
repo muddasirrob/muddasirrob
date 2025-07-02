@@ -25,7 +25,7 @@
 - 🎓 **Bachelor's in Software Engineering**  
    Superior University, Lahore (2021 - 2025)
 
-- 🎓 **Advance Python Programming & Application**  
+- 🎓 **Certified in Machine Learning & AI Development**  
    National Vocational & Technical Training Commission
 
 ---
@@ -63,15 +63,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Mostly Python 💻)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muddasirrob&theme=tokyonight&hide_border=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrob&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirrob&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="450"/>
 </p>
 
 ---
