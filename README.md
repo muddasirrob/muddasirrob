@@ -25,7 +25,7 @@
 - 🎓 **Bachelor's in Software Engineering**  
    Superior University, Lahore (2021 - 2025)
 
-- 🎓 **Certified in Machine Learning & AI Development**  
+- 🎓 **Advance Python Programming & Application**  
    National Vocational & Technical Training Commission
 
 ---
