@@ -1,31 +1,40 @@
-<!-- Cyberpunk / Tech Themed GitHub Profile README -->
-
-<h1 align="center">🚀 Muddasir Rauf | AI Engineer & Automation Specialist 🚀</h1>
-
+<h1 align="center">Hi 👋, I'm Muddasir Rauf</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Automation+Expert+%7C+LLMs+%7C+Streamlit+%7C+RAG+%7C+n8n+%7C+Bot+Developer" alt="Typing SVG" />
+  AI Enthusiast • Automation Specialist • Bot Developer
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-🔍 I am a **Python Developer** focused on **AI, Automation, LLMs, RAG, Streamlit Apps, and n8n Workflows**.  
-💡 Building intelligent bots, smart workflows, and knowledge-driven chatbots.  
-🌱 Currently deep diving into **Generative AI, Vector Databases, and Advanced Workflow Automation**.
-
-<img align="right" alt="AI Developer Gif" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🛠️ Working with **OpenAI API**, **LangChain**, **Streamlit**, **n8n**, **TensorFlow**, **scikit-learn**, and more.
-- 🚀 Automating processes and making AI accessible via beautiful apps & bots.
-- 📚 Lifelong learner with a passion for **AI, NLP, and ML**.
+## 🚀 About Me
+- 🔥 Working on **AI, LLMs, RAG, Streamlit Apps, and Automation**
+- 🤖 Passionate about **Bots, AI-powered tools, and smart workflows**
+- 🔄 Exploring **n8n**, **LangChain**, and **Generative AI**
+- 📫 Email: **muddasirrob@gmail.com**
 
 ---
 
-## 🧠 Areas of Interest
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-black?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-A63E96?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-```plaintext
-🌟 AI Automation              🌟 LLM Applications (GPT, Gemini)
-🌟 Chatbot Development        🌟 Retrieval Augmented Generation (RAG)
-🌟 Streamlit Dashboarding     🌟 Vector Databases
-🌟 n8n Workflow Automation    🌟 Machine Learning & NLP
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrob&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=muddasirrob&theme=tokyonight&hide_border=true" width="400"/>
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/muddasirrob/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muddasirrob@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
