@@ -17,7 +17,7 @@
 - 💡 I believe in the power of **Automation, AI, and Creativity** to solve real-world problems.  
 - 🌱 Constantly learning about **Generative AI, NLP, LangChain, and scalable AI deployments**.  
 
-> **💬 "My mission is to automate the boring, simplify the complex, and empower others through AI."**
+> 💬 *"My mission is to automate the boring, simplify the complex, and empower others through AI."*
 
 ---
 
@@ -51,7 +51,14 @@
 ## 🚀 My Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=00F7C7&center=true&vCenter=true&width=600&lines=🧠+LLMs+%7C+GPT+%7C+Claude+%7C+Mistral+%7C+RAG;🤖+Bots+%7C+AI+Automation+%7C+LangChain+%7C+OpenAI;🚀+Streamlit+Apps+%7C+n8n+Workflows+%7C+API+Development;🔍+Web+Scraping+%7C+Data+Extraction+%7C+AI+Tool+Building;🎯+Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Generative+AI" alt="Typing SVG">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bots-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5B21B6?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative AI-0A192F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
