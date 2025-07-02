@@ -10,13 +10,12 @@
 ---
 
 ## 🌍 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="280">
 
-- 🚀 I'm a **Python Developer** specializing in **AI**, **LLMs**, **Automation**, and **Bots.**  
-- 🔍 Working extensively on **RAG (Retrieval-Augmented Generation)**, **LLMs-based solutions**, and **AI-driven tools.**  
+- 🚀 I'm a **Python Developer** specializing in **AI**, **LLMs**, **Automation**, and **Bots**.  
+- 🔍 Working extensively on **RAG (Retrieval-Augmented Generation)**, **LLMs-based solutions**, and **AI-driven tools**.  
 - 🎯 Skilled in **workflow automation using n8n**, **Streamlit-based apps**, and creating intelligent chatbots.  
 - 💡 I believe in the power of **Automation, AI, and Creativity** to solve real-world problems.  
-- 🌱 Constantly learning about **Generative AI, NLP, LangChain, and scalable AI deployments.**  
+- 🌱 Constantly learning about **Generative AI, NLP, LangChain, and scalable AI deployments**.  
 
 > **💬 "My mission is to automate the boring, simplify the complex, and empower others through AI."**
 
@@ -38,17 +37,6 @@
 - 🔄 Design **n8n Workflows to Automate Tasks**
 - 🧠 Experiment with **LLMs, Generative AI, and NLP models**
 - 💼 Consult and build **AI integrations for businesses**
-
----
-
-## 💼 Notable Projects
-| Project | Description |
-| ------- | ------------ |
-| 🧠 **RAG-Based Chatbot** | AI chatbot capable of retrieving from custom datasets using RAG pipelines. |
-| 🔍 **PDF-QnA App** | Upload PDFs and ask anything using an LLM-powered interface. |
-| 🤖 **JobFinder AI Bot** | AI-driven job locator bot with scraping and intelligent filtering. |
-| 🔗 **n8n Automation Hub** | Automating repetitive business processes using n8n workflows. |
-| 🚀 **Streamlit AI Toolkit** | A suite of AI-powered mini-tools built with Streamlit. |
 
 ---
 
