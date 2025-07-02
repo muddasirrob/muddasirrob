@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muddasir Rauf</h1>
-<h3 align="center">A Passionate Developer, Tech Enthusiast, and Lifelong Learner from Pakistan 🇵🇰</h3>
+<h3 align="center">A Passionate Chatbot Developer, Tech Enthusiast, and Lifelong Learner from Pakistan 🇵🇰</h3>
 
 ---
 
