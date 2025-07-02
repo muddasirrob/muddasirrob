@@ -4,21 +4,26 @@
 ---
 
 ### 🧑‍💻 About Me:
-- 🌱 Currently learning **Machine Learning, AI, and Web Development**
-- 🔭 Working on **Python Projects, Bots, and Automation**
+- 🌱 Currently learning **n8n (workflow automation), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG)**
+- 🔭 Working on **Bots, Automation, LLMs, RAGs, Machine Learning, and Streamlit Apps**
 - 💡 Exploring **Open Source** and collaborating on exciting projects
-- 💬 Ask me about **Python, GitHub, Machine Learning, and Frontend**
+- 💬 Ask me about **Python, GitHub, Machine Learning, LLMs, and Automation**
 - 📫 Reach me at **muddasirrob@gmail.com**
-- ⚡ Fun fact: **I love to solve problems and learn something new every day!**
+- ⚡ Fun fact: **I love solving problems and learning something new every day!**
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chatbots-FF4500?style=for-the-badge&logo=dialogflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D70?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
@@ -42,7 +47,7 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/muddasirrob/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:muddasirrob@gmail.com">
