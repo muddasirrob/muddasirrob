@@ -1,54 +1,98 @@
 <h1 align="center">Hi 👋, I'm Muddasir Rauf</h1>
-<h3 align="center">AI | Robotics | Automation | LLMs | Bots | Generative AI | RAG | Streamlit | n8n</h3>
+<h3 align="center">AI | LLMs | Automation | RAG | Bots | Streamlit | n8n | Generative AI | NLP</h3>
 
 ---
 
-- 🎓 **Bachelor of Robotics (2022–2026)** at Superior University, Lahore  
-- 🌱 Currently learning **LLMs, Generative AI, AI Automation, and Streamlit**  
-- 🚀 Working on **AI Bots, Automation, RAG Systems, and Robotics Projects**  
-- 👨‍💻 Check out all my projects on [GitHub](https://github.com/muddasirrob)  
-- 💬 Ask me about **Python, AI, Bots, LLMs, Automation, n8n, or Streamlit**  
-- 📫 How to reach me: **muddasirrob@gmail.com**  
-- ⚡ Fun fact: **I love turning boring tasks into automation magic!**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7C7&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Automation+Specialist;LLM+Expert+%7C+RAG+Engineer;Streamlit+App+Builder+%7C+Bot+Developer;n8n+Automation+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG">
+</p>
 
 ---
 
-## 🛠️ Languages & Tools:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+## 🌍 About Me
+
+- 🚀 I'm a **Python Developer** specializing in **AI**, **LLMs**, **Automation**, and **Bots**.  
+- 🔍 Working extensively on **RAG (Retrieval-Augmented Generation)**, **LLMs-based solutions**, and **AI-driven tools**.  
+- 🎯 Skilled in **workflow automation using n8n**, **Streamlit-based apps**, and creating intelligent chatbots.  
+- 💡 I believe in the power of **Automation, AI, and Creativity** to solve real-world problems.  
+- 🌱 Constantly learning about **Generative AI, NLP, LangChain, and scalable AI deployments**.  
+
+> 💬 *"My mission is to automate the boring, simplify the complex, and empower others through AI."*
+
+---
+
+## 🎓 Education
+- 🎓 **Bachelor in Robotics**  
+   Superior University, Lahore (2022 - 2026)
+
+- 🎓 **Certified in Advance Python Programming & Application**  
+   National Vocational & Technical Training Commission
+
+---
+
+## 🔥 What I Do
+- 🤖 Build **AI-powered Bots & Automation**
+- 🔍 Develop **RAG Systems & Knowledge-driven AI**
+- 🚀 Deploy **Streamlit Apps for AI tools**
+- 🔄 Design **n8n Workflows to Automate Tasks**
+- 🧠 Experiment with **LLMs, Generative AI, and NLP models**
+- 💼 Consult and build **AI integrations for businesses**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode,streamlit,openai,fastapi,langchain&perline=8" /></a>
+</p>
+
+---
+
+## 🚀 My Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bots-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-n8n-orange?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-orange?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5B21B6?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative AI-0A192F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats (Mostly Python 💻)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrob&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="muddasirrob GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muddasirrob&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muddasirrob&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="450"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph:
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muddasirrob&theme=redical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=muddasirrob&theme=discord&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📫 Connect with me:
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/muddasirrob" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/muddasirrob/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:muddasirrob@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <a href="mailto:muddasirrob@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muddasirrob&style=for-the-badge&label=Profile+Views&color=00BFFF"/>
+</p>
