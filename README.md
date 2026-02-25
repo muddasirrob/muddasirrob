@@ -13,7 +13,7 @@
 
 - 🚀 I'm an **AI Engineer & Business Automation Specialist** passionate about transforming operations through intelligent systems.
 - 🔍 Currently focused on building **Agentic Workflows** using **LangChain** and **MCP Servers**.
-- 🎯 Skilled in developing **RAG (Retrieval-Augmented Generation)** systems and integrating **LLMs** for real-world business use cases (healthcare, real estate, and accountancy).
+- 🎯 Skilled in developing **RAG (Retrieval-Augmented Generation)** systems and integrating **LLMs** for real-world business use cases.
 - ⚙️ Deeply experienced in crafting robust automations with **n8n** and **Python**, alongside deploying scalable solutions via **AWS**, **Docker**, and custom infrastructure.
 - 💡 I lead AI service initiatives, specializing in turning complex multi-step processes into seamless, autonomous workflows.
 - 🌱 Constantly exploring the frontiers of **Generative AI**, **NLP**, and modern AI integrations.
@@ -25,7 +25,9 @@
 ## 🎓 Education & Global Experience
 
 - 🎓 **Bachelor in Robotics** Superior University, Lahore (2022 - 2026)
+
 - 🌍 **Erasmus Student Exchange** Kadir Has University, Istanbul, Turkey (Oct 2023 - Jan 2024)
+
 - 🌍 **Erasmus Student Exchange** Yasar University, Izmir, Turkey (Feb 2023 - Jun 2023)
 
 ---
@@ -43,7 +45,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode,streamlit,docker,aws,fastapi,langchain,mongodb&perline=8" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode,docker,aws,fastapi,mongodb&perline=10" /></a>
 </p>
 
 ---
@@ -71,10 +73,10 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 💻 Top Languages
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=muddasirrob&theme=discord&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirrob&layout=compact&theme=tokyonight&hide_border=true" width="450"/>
 </p>
 
 ---
