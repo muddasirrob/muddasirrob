@@ -73,11 +73,7 @@
 
 ---
 
-## 💻 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirrob&layout=compact&theme=tokyonight&hide_border=true" width="450"/>
-</p>
 
 ---
 
